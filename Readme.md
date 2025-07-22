@@ -77,7 +77,7 @@ Enter the desired option number and follow the prompts.
 
 -----
 ## <a name="screenshots"></a>🖼️ Screenshot
-![Add Student](https://github.com/Shivamsaini5163/Student-Management-System-Console-based-using-Spring-ORM/blob/main/image.png)
+![Add Student](https://github.com/Shivamsaini5163/Student-Management-System-Console-based-using-Spring-ORM/spring_orm/blob/main/image.png)
 
 -----
 ## <a name="future-improvements"></a>🧩 Future Improvements
